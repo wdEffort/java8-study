@@ -1,4 +1,6 @@
 # Java 8 study channel
+## 사전지식
+### 저급언어와 고급언어, 프로그래밍 언어와 JAVA(+ 특징), JDK/JRE/JVM
 ## 개발 환경
 * Java version : JDK 1.8
 * IDE : Eclipse Java EE IDE for Web Developers, Version: Oxygen.3a Release (4.7.3a)
@@ -15,3 +17,4 @@
 7. 두 번째 연습문제[ex09]
 8. 식과 연산자[ex10]
 9. 형변환[ex11]
+10. 세 번째 연습문제[ex12]
