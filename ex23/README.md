@@ -1,8 +1,8 @@
-# 클래스 변수와 메소드
-## 인스턴스 변수와 메소드, 클래스 변수와 메소드에 대해 학습합니다.
-## 인스턴스 멤버와 클래스 멤버를 비교해봅니다.
-## 클래스 멤버 사용시 주의사항에 대해 학습합니다.
+# 생성자(Constructor)
+## 객체를 생성할 떄 자동으로 호출되는 생성자에 대해 학습합니다.
+## 생성자 오버로딩에 대해 학습합니다.
+## 생성자에 접근 제한자를 붙이는 경우 처리방법에 대해 학습합니다.
 ## Package Name
 * com.ezen.example
 ## Class Name
-* ClassVariableSample01, ClassVariableSample02
+* ConstructorSample01, ConstructorSample02, ConstructorSample03, ConstructorSample04, ConstructorSample05
