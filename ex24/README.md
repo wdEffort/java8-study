@@ -5,4 +5,4 @@
 ## Package Name
 * com.ezen.example
 ## Class Name
-* ClassVariableSample01, ClassVariableSample02
+* ClassVariableSample01, ClassVariableSample02 
