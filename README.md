@@ -30,4 +30,7 @@
 20. 메소드 오버로딩(Overloading)[ex22]
 21. 생성자(Constructor)[ex23]
 22. 클래스 변수와 메소드[ex24]
-23. 일곱 번째 연습문제[ex25] 
+23. 일곱 번째 연습문제[ex25]
+24. 클래스 라이브러리
+ - 문자열을 다루는 String, StringBuffer 클래스[ex26]
+ - 래퍼 클래스(Wrapper class)와 수학적인 계산 기능을 가진 Math 클래스[ex27]
