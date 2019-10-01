@@ -37,3 +37,4 @@
 25. 클래스형 변수 이용하기[ex28]
 26. Pass By Value, Pass By Reference[ex29]
 27. 객체 배열 다루기[ex30]
+28. 여덟 번째 연습문제[ex31]
