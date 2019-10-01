@@ -34,3 +34,4 @@
 24. 클래스 라이브러리
  - 문자열을 다루는 String, StringBuffer 클래스[ex26]
  - 래퍼 클래스(Wrapper class)와 수학적인 계산 기능을 가진 Math 클래스[ex27]
+25. 클래스형 변수 이용하기[ex28]
