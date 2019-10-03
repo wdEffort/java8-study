@@ -38,3 +38,7 @@
 26. Pass By Value, Pass By Reference[ex29]
 27. 객체 배열 다루기[ex30]
 28. 여덟 번째 연습문제[ex31]
+29. 클래스의 확장(상속)[ex32]
+30. 메소드 오버라이딩(Overriding)[ex33]
+31. super 키워드 다뤄보기[ex34]
+32. final 키워드 다뤄보기[ex35]
