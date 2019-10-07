@@ -6,6 +6,6 @@
 ## Class Name
 * Car
 ## Package-2 Name
-* com.ezen.pa
+* com.ezen.pb
 ## Class Name
 * OtherPackageSample
