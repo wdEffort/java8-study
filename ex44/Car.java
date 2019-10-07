@@ -1,19 +1,19 @@
 package com.ezen.example;
 
 /**
- * 파일 분할 - Car01
+ * 파일 분할 - Car
  * 
  * @author yoman
  * 
  * 2019. 10. 07
  * 
- * Sample01에 사용될 Car01 클래스를 선언합니다.
+ * Sample 클래스에 사용될 Car 클래스를 선언합니다.
  */
-public class Car01 {
+public class Car {
 	private int num;
 	private double gas;
 	
-	public Car01() {
+	public Car() {
 		this.num = 0;
 		this.gas = 0.0;
 	}
